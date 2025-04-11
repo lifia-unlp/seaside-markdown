@@ -9,7 +9,7 @@ BaselineOfSeasideMarkdown >> baseline: spec [
 
 	<baseline>
 	spec for: #common do: [
-		spec repository: 'github//lifia-unlp/seaside-markdown'.
+		spec repository: 'github://lifia-unlp/seaside-markdown:main/src'.
 		self seaside: spec.
 		spec
 			package: 'Seaside-Markdown';

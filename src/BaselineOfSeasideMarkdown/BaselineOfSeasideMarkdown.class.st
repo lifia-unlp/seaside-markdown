@@ -1,6 +1,6 @@
 Class {
 	#name : #BaselineOfSeasideMarkdown,
-	#superclass : #Object,
+	#superclass : #BaselineOf,
 	#category : #BaselineOfSeasideMarkdown
 }
 

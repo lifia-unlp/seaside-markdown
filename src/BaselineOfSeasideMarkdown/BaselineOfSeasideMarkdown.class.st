@@ -12,7 +12,7 @@ BaselineOfSeasideMarkdown >> baseline: spec [
 		spec repository: 'github://lifia-unlp/seaside-markdown:main/src'.
 		self seaside: spec.
 		spec
-			package: 'Seaside-Markdown';
+			package: 'Seaside-Markdown'
 			with: [ spec requires: #( 'Seaside3' ) ] ]
 ]
 
